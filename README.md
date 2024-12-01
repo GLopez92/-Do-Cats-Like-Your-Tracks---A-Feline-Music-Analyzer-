@@ -21,7 +21,7 @@ Spotify Developer Account: Create an app in the Spotify Developer Dashboard to g
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/do-cats-like-your-tracks.git
+https://github.com/GLopez92/-Do-Cats-Like-Your-Tracks---A-Feline-Music-Analyzer-.git
 cd do-cats-like-your-tracks
 Install dependencies:
 bash
